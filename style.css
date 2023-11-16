@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(11, 156, 142);
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.block {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 250px;
+    margin-left: 35%;
+    margin-top: 30%;
+    background-color: #cd8b06;
+    text-align: center;
+}
+
+#color-box {
+    width: 100px;
+    height: 100px;
+    margin-top: 10px;
+}
